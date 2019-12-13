@@ -1,0 +1,16 @@
+Class: Plant
+
+Attributes:
+color (string)
+flowerType (string)
+leafCount (integer)
+height (float)
+alive (boolean)
+thirsty (boolean)
+
+Methods:
+grow (adds 1 to height)
+leafLoss (subtract 1 from leafCount)
+leafGain (add 1 to leafCount)
+absorbWater (thirsty value changes to no)
+prune (subtract x from height)
