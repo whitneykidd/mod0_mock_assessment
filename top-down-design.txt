@@ -1,0 +1,29 @@
+Making a sandwich
+
+1 Acquire ingredients and materials
+    1.1 Gather ingredients
+        1.1.1 Gather bread loaf
+        1.1.2 Gather turkey
+        1.1.3 Gather block of cheese
+        1.1.3 Gather head of lettuce
+        1.1.4 Gather mayonnaise
+    1.2 Gather materials
+        1.2.1 Plate
+        1.2.2 Knife
+2 Prepare ingredients
+    2.1 Cut two slices of bread from bread loaf
+    2.2 Slice cheese into slices
+    2.3 Remove two leaves from head of lettuce
+3 Construct sandwich
+    3.1 Place both slices of bread on plate
+    3.2 Spread mayonnaise onto both slices using the Knife
+    3.3 Place cheese on the left slice of bread
+    3.4 Place turkey on the left slice of bread
+    3.5 Place lettuce on the left slice of bread
+    3.6 Pick up slice of bread on the right
+        3.6.1 Place slice of bread on top of the ingredients stacked on the left slice
+    3.7 Pick up Knife
+        3.7.1 Use knife to cut sandwich in half
+4 Eat sandwich
+    4.1 Use hands to pick up one half of the sandwich
+        4.1.1 Bring sandwich toward mouth and take a bite
