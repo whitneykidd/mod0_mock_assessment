@@ -1,0 +1,16 @@
+Class: Plant
+
+Object: Monstera
+color: 'Green'
+flowerType: 'N/a'
+leafCount: 15
+height: 2
+alive: true
+thirsty: false
+...
+
+Object: Poinsettia
+flowerType: 'perennial'
+height: 32
+alive: false
+thirsty: true
