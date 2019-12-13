@@ -27,4 +27,3 @@ Making a sandwich
 4 Eat sandwich
     4.1 Use hands to pick up one half of the sandwich
         4.1.1 Bring sandwich toward mouth and take a bite
-        
